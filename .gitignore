@@ -42,3 +42,7 @@ next-env.d.ts
 
 # Archive Backups
 archive/
+
+# Claude Code 로컬 설정
+CLAUDE.md
+.claude/
