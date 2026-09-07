@@ -6,7 +6,7 @@
 - **작업자(모바일)**: 도서 촬영, 바코드 스캔, 입고 적치, 출고 피킹
 - **관리자(데스크톱)**: AI 검수 결과 확인, HITL 판정, 재고·주문 관리, 대시보드
 
-백엔드: [wms-core-backend](https://github.com/jmkyong9393/wms-core-backend)
+백엔드: [wms-core-backend](https://github.com/newzed-enhancement/wms-core-backend)
 
 ---
 
@@ -131,6 +131,7 @@ warning으로 낮춰** 두었습니다. 숨긴 것이 아니라, error로 두면
 
 ## 문서
 
+- [고도화 참여자 온보딩](https://github.com/newzed-enhancement/wms-core-backend/blob/main/docs/ONBOARDING.md) — **새로 합류했다면 먼저 읽으세요.** 백엔드 레포에 정본이 있습니다
 - [프론트엔드 개발 가이드](FRONTEND_GUIDE.md) — 컴포넌트 작성 규칙, 상태 관리 패턴
 - [기획서](docs/B2B_WMS_AI_Platform_기획서_ver1.4.2.0.md)
 - [워크플로우](docs/B2B_WMS_AI_Platform_워크플로우_ver1.4.2.0.md)
